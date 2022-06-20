@@ -1,0 +1,16 @@
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\employees.csv
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\employees2.csv
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+F:\zadanie\Nowy folder\Payroll2000-master-master\Payroll2000-master-master\TestConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

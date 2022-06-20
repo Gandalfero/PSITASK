@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqmOZVs3wBcKNk8H1fkx7HE9Kt3gmQxiRKK0VqtAEcDweZsZXHrMnIBvz9y+So44c7iN/2y5m0jh0j+ZLG05HQ==",
+  "success": true,
+  "projectFilePath": "F:\\zadanie\\Nowy folder\\Payroll2000-master-master\\Payroll2000-master-master\\EmployeeGenerator\\EmployeeGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\bogus\\28.0.2\\bogus.28.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
